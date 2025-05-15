@@ -1,6 +1,6 @@
 # Tax Accounting Firm Web Presence Project
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202024-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-blue)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green)
 
 ## Overview
@@ -110,5 +110,5 @@ For technical support and maintenance:
 
 - **Technical Lead:** Tony Hart
 - **Email:** tony.hart@intelliops.co
-- **Phone:** +1 409-550-2014
+- **Phone:** +1 254-300-8507
 - **Support Hours:** Monday-Friday, 9:00 AM - 5:00 PM CST
